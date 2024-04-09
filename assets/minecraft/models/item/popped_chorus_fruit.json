@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/popped_chorus_fruit"
+  },
+  "overrides": [
+    { "model": "tnthrow:item/tnt/normal_tnt", "predicate": { "custom_model_data": 1 } }
+  ]
+}
